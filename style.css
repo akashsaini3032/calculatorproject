@@ -61,7 +61,7 @@ td:active {
         width: 90%; /* Center and fit table */
         margin: 20px auto;
         padding: 15px;
-        padding-top: 50px;
+        margin-top: 80px;
         border-spacing: 8px; /* Space between buttons */
         border-radius: 20px; /* Smooth corners */
         background-color: #8bf7e0; /* Dark theme */
@@ -71,8 +71,8 @@ td:active {
         font-size: 28px; /* Readable text */
         padding: 15px;
         height: 80px; /* Prominent display area */
-        color: #444;;
-        background-color: #edb97e; /* Display box background */
+        color: #444;
+        background-color: #ed6666; /* Display box background */
         text-align: right; /* Align text to the right */
         border-radius: 10px;
     }
